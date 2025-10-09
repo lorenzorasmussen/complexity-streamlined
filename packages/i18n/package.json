@@ -24,13 +24,13 @@
   "devDependencies": {
     "@complexity/eslint-config": "workspace:*",
     "@complexity/typescript-config": "workspace:*",
-    "@types/node": "22.17.2",
+    "@types/node": "catalog:shared",
     "@types/react": "19.1.11",
     "@types/react-dom": "^19.1.9",
     "eslint": "catalog:lint",
-    "globals": "16.4.0",
+    "globals": "catalog:shared",
     "prettier": "catalog:lint",
-    "tsup": "^8.5.0",
+    "tsup": "catalog:shared",
     "typescript": "catalog:types",
     "typescript-eslint": "catalog:lint",
     "vitest": "^3.2.4"

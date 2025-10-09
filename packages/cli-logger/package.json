@@ -17,10 +17,10 @@
   },
   "devDependencies": {
     "@complexity/typescript-config": "workspace:*",
-    "@types/node": "22.17.2",
+    "@types/node": "catalog:shared",
     "chalk": "^5.6.2",
-    "globals": "16.4.0",
-    "tsup": "^8.5.0",
+    "globals": "catalog:shared",
+    "tsup": "catalog:shared",
     "typescript": "catalog:types"
   }
 }

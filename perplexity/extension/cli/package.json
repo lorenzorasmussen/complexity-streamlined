@@ -29,7 +29,7 @@
     "@complexity/eslint-config": "workspace:*",
     "@complexity/typescript-config": "workspace:*",
     "@types/mime-types": "^2.1.4",
-    "@types/node": "22.17.2",
+    "@types/node": "catalog:shared",
     "eslint": "catalog:lint",
     "prettier": "catalog:lint",
     "typescript": "catalog:types",
