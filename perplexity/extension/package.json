@@ -103,7 +103,7 @@
     "@complexity/eslint-config": "workspace:*",
     "@complexity/typescript-config": "workspace:*",
     "@crxjs/vite-plugin": "^2.2.0",
-    "@playwright/test": "^1.55.0",
+    "@playwright/test": "^1.55.1",
     "@tailwindcss/cli": "^4.1.13",
     "@tailwindcss/typography": "^0.5.17",
     "@tailwindcss/vite": "^4.1.13",
