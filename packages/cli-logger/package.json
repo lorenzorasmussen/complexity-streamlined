@@ -20,7 +20,7 @@
     "@types/node": "catalog:shared",
     "chalk": "^5.6.2",
     "globals": "catalog:shared",
-    "tsup": "catalog:shared",
+    "tsup": "8.5.1",
     "typescript": "catalog:types"
   }
 }
