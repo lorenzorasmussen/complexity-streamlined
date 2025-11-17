@@ -30,7 +30,7 @@
     "eslint": "catalog:lint",
     "globals": "catalog:shared",
     "prettier": "catalog:lint",
-    "tsup": "catalog:shared",
+    "tsup": "8.5.1",
     "typescript": "catalog:types",
     "typescript-eslint": "catalog:lint",
     "vitest": "^3.2.4"
