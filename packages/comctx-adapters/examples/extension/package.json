@@ -21,7 +21,7 @@
     "@crxjs/vite-plugin": "^2.2.0",
     "@types/chrome": "catalog:shared",
     "@types/node": "catalog:shared",
-    "eslint": "catalog:lint",
+    "eslint": "10.0.0",
     "globals": "catalog:shared",
     "prettier": "catalog:lint",
     "typescript": "catalog:types",
